@@ -14,7 +14,8 @@ import com.example.filters.SimpleFilter;
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
-		System.out.println(Constant.region);
+		System.out.println("region 1  ::: "+Constant.region);
+		System.out.println("region 2  ::: "+Constant.region);
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 	
