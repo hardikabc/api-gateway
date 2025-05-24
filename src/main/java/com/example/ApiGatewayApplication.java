@@ -15,7 +15,7 @@ public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Mukesh Main");
+		System.out.println("Mukesh Main from local");
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 	
