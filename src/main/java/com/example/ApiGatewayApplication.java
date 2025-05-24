@@ -14,8 +14,9 @@ import com.example.filters.SimpleFilter;
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
-		System.out.println("region 1  ::: "+Constant.region);
-		System.out.println("region 2  ::: "+Constant.region);
+
+		System.out.println("Mukesh Main from local");
+		System.out.println("New Logic Data");
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 	
