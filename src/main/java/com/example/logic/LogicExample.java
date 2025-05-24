@@ -4,5 +4,6 @@ public class LogicExample {
 
     public static void main(String args[]){
         System.out.println("Test Main");
+        System.out.println("Code pusheed from local");
     }
 }
