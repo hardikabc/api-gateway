@@ -17,6 +17,7 @@ public class ApiGatewayApplication {
 
 		System.out.println("Mukesh Main from local");
 		System.out.println("New Logic Data");
+		System.out.println("Remote Code");
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 	
