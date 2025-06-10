@@ -18,6 +18,9 @@ public class ApiGatewayApplication {
 		System.out.println("Mukesh Main from local");
 		System.out.println("New Logic Data");
 		SpringApplication.run(ApiGatewayApplication.class, args);
+                System.out.println("Data Added in master code ");
+
+		
 	}
 	
 	  @Bean
