@@ -22,6 +22,11 @@ public class ApiGatewayApplication {
 		System.out.println("2 - Master Code 2 ");
 		System.out.println("3 - Master code 3  ");
 
+	        System.out.println("4 - Master Code 4 ");
+		System.out.println("5 - Master Code 5 ");
+		System.out.println("6 - Master code 5  ");
+		
+
 		
 	}
 	
